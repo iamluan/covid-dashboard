@@ -1,0 +1,500 @@
+[2022-07-07 14:52:50,362] {processor.py:153} INFO - Started process (PID=2618) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:52:50,363] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:52:50,365] {logging_mixin.py:115} INFO - [2022-07-07 14:52:50,364] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:52:50,366] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:52:50,402] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:52:57,216] {processor.py:153} INFO - Started process (PID=2850) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:52:57,217] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:52:57,217] {logging_mixin.py:115} INFO - [2022-07-07 14:52:57,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:52:57,219] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:52:57,265] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2022-07-07 14:53:01,024] {processor.py:153} INFO - Started process (PID=3077) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:01,046] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:01,047] {logging_mixin.py:115} INFO - [2022-07-07 14:53:01,047] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:01,050] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:01,166] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.154 seconds
+[2022-07-07 14:53:05,239] {processor.py:153} INFO - Started process (PID=3292) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:05,239] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:05,240] {logging_mixin.py:115} INFO - [2022-07-07 14:53:05,240] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:05,241] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:05,277] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2022-07-07 14:53:08,018] {processor.py:153} INFO - Started process (PID=3510) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:08,018] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:08,019] {logging_mixin.py:115} INFO - [2022-07-07 14:53:08,019] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:08,021] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:08,063] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2022-07-07 14:53:10,837] {processor.py:153} INFO - Started process (PID=3726) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:10,837] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:10,838] {logging_mixin.py:115} INFO - [2022-07-07 14:53:10,838] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:10,842] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:10,884] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.051 seconds
+[2022-07-07 14:53:13,297] {processor.py:153} INFO - Started process (PID=3942) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:13,298] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:13,299] {logging_mixin.py:115} INFO - [2022-07-07 14:53:13,299] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:13,301] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:13,338] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2022-07-07 14:53:15,711] {processor.py:153} INFO - Started process (PID=4158) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:15,712] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:15,712] {logging_mixin.py:115} INFO - [2022-07-07 14:53:15,712] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:15,713] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:15,823] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.116 seconds
+[2022-07-07 14:53:18,285] {processor.py:153} INFO - Started process (PID=4374) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:18,287] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:18,288] {logging_mixin.py:115} INFO - [2022-07-07 14:53:18,288] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:18,289] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:18,349] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2022-07-07 14:53:21,223] {processor.py:153} INFO - Started process (PID=4591) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:21,224] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:21,225] {logging_mixin.py:115} INFO - [2022-07-07 14:53:21,225] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:21,226] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:21,266] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.050 seconds
+[2022-07-07 14:53:23,888] {processor.py:153} INFO - Started process (PID=4806) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:23,888] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:23,889] {logging_mixin.py:115} INFO - [2022-07-07 14:53:23,889] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:23,891] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:23,935] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.052 seconds
+[2022-07-07 14:53:27,417] {processor.py:153} INFO - Started process (PID=5022) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:27,418] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:27,418] {logging_mixin.py:115} INFO - [2022-07-07 14:53:27,418] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:27,420] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:27,457] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2022-07-07 14:53:31,914] {processor.py:153} INFO - Started process (PID=5245) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:31,915] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:31,916] {logging_mixin.py:115} INFO - [2022-07-07 14:53:31,915] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:31,917] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:31,947] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2022-07-07 14:53:38,540] {processor.py:153} INFO - Started process (PID=5468) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:38,541] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:38,552] {logging_mixin.py:115} INFO - [2022-07-07 14:53:38,552] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:38,554] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:38,657] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.122 seconds
+[2022-07-07 14:53:46,340] {processor.py:153} INFO - Started process (PID=5684) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:46,350] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:46,351] {logging_mixin.py:115} INFO - [2022-07-07 14:53:46,351] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:46,353] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:46,434] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.100 seconds
+[2022-07-07 14:53:54,491] {processor.py:153} INFO - Started process (PID=5901) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:54,491] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:53:54,492] {logging_mixin.py:115} INFO - [2022-07-07 14:53:54,492] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:54,505] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:53:54,590] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.114 seconds
+[2022-07-07 14:54:00,460] {processor.py:153} INFO - Started process (PID=6118) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:00,462] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:00,463] {logging_mixin.py:115} INFO - [2022-07-07 14:54:00,463] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:00,464] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:00,495] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2022-07-07 14:54:03,687] {processor.py:153} INFO - Started process (PID=6333) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:03,692] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:03,693] {logging_mixin.py:115} INFO - [2022-07-07 14:54:03,692] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:03,696] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:03,763] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.081 seconds
+[2022-07-07 14:54:07,363] {processor.py:153} INFO - Started process (PID=6556) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:07,363] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:07,364] {logging_mixin.py:115} INFO - [2022-07-07 14:54:07,364] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:07,366] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:07,407] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-07-07 14:54:11,935] {processor.py:153} INFO - Started process (PID=6778) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:11,936] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:11,937] {logging_mixin.py:115} INFO - [2022-07-07 14:54:11,937] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:11,939] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:12,039] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.118 seconds
+[2022-07-07 14:54:17,136] {processor.py:153} INFO - Started process (PID=6995) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:17,137] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:17,137] {logging_mixin.py:115} INFO - [2022-07-07 14:54:17,137] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:17,138] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:17,173] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2022-07-07 14:54:21,597] {processor.py:153} INFO - Started process (PID=7211) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:21,597] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:21,598] {logging_mixin.py:115} INFO - [2022-07-07 14:54:21,598] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:21,600] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:21,637] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:54:25,833] {processor.py:153} INFO - Started process (PID=7426) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:25,834] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:25,834] {logging_mixin.py:115} INFO - [2022-07-07 14:54:25,834] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:25,839] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:25,883] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.054 seconds
+[2022-07-07 14:54:29,399] {processor.py:153} INFO - Started process (PID=7652) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:29,399] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:29,400] {logging_mixin.py:115} INFO - [2022-07-07 14:54:29,400] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:29,402] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:29,440] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2022-07-07 14:54:32,502] {processor.py:153} INFO - Started process (PID=7866) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:32,522] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:32,523] {logging_mixin.py:115} INFO - [2022-07-07 14:54:32,523] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:32,525] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:32,561] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2022-07-07 14:54:35,197] {processor.py:153} INFO - Started process (PID=8082) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:35,198] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:35,199] {logging_mixin.py:115} INFO - [2022-07-07 14:54:35,199] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:35,202] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:35,261] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2022-07-07 14:54:37,922] {processor.py:153} INFO - Started process (PID=8297) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:37,922] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:37,923] {logging_mixin.py:115} INFO - [2022-07-07 14:54:37,923] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:37,926] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:38,009] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.104 seconds
+[2022-07-07 14:54:40,490] {processor.py:153} INFO - Started process (PID=8519) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:40,491] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:40,492] {logging_mixin.py:115} INFO - [2022-07-07 14:54:40,492] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:40,495] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:40,540] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.055 seconds
+[2022-07-07 14:54:43,854] {processor.py:153} INFO - Started process (PID=8742) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:43,855] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:43,856] {logging_mixin.py:115} INFO - [2022-07-07 14:54:43,856] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:43,858] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:43,906] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.057 seconds
+[2022-07-07 14:54:46,887] {processor.py:153} INFO - Started process (PID=8958) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:46,887] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:46,889] {logging_mixin.py:115} INFO - [2022-07-07 14:54:46,888] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:46,893] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:46,930] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2022-07-07 14:54:50,306] {processor.py:153} INFO - Started process (PID=9174) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:50,307] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:50,308] {logging_mixin.py:115} INFO - [2022-07-07 14:54:50,307] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:50,310] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:50,377] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.079 seconds
+[2022-07-07 14:54:53,594] {processor.py:153} INFO - Started process (PID=9393) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:53,595] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:53,596] {logging_mixin.py:115} INFO - [2022-07-07 14:54:53,595] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:53,598] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:53,653] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2022-07-07 14:54:57,063] {processor.py:153} INFO - Started process (PID=9607) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:57,063] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:54:57,064] {logging_mixin.py:115} INFO - [2022-07-07 14:54:57,064] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:57,066] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:54:57,100] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2022-07-07 14:55:00,404] {processor.py:153} INFO - Started process (PID=9824) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:00,404] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:00,405] {logging_mixin.py:115} INFO - [2022-07-07 14:55:00,404] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:00,406] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:00,433] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-07-07 14:55:03,842] {processor.py:153} INFO - Started process (PID=10039) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:03,843] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:03,844] {logging_mixin.py:115} INFO - [2022-07-07 14:55:03,843] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:03,846] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:03,898] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
+[2022-07-07 14:55:08,873] {processor.py:153} INFO - Started process (PID=10255) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:08,926] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:08,927] {logging_mixin.py:115} INFO - [2022-07-07 14:55:08,926] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:08,932] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:09,046] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.191 seconds
+[2022-07-07 14:55:12,912] {processor.py:153} INFO - Started process (PID=10471) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:12,913] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:12,917] {logging_mixin.py:115} INFO - [2022-07-07 14:55:12,917] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:12,921] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:12,993] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.086 seconds
+[2022-07-07 14:55:16,633] {processor.py:153} INFO - Started process (PID=10695) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:16,634] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:16,635] {logging_mixin.py:115} INFO - [2022-07-07 14:55:16,634] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:16,636] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:16,671] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:55:19,802] {processor.py:153} INFO - Started process (PID=10917) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:19,803] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:19,803] {logging_mixin.py:115} INFO - [2022-07-07 14:55:19,803] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:19,804] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:19,833] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2022-07-07 14:55:22,780] {processor.py:153} INFO - Started process (PID=11133) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:22,781] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:22,782] {logging_mixin.py:115} INFO - [2022-07-07 14:55:22,782] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:22,783] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:22,833] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2022-07-07 14:55:25,891] {processor.py:153} INFO - Started process (PID=11349) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:25,891] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:25,892] {logging_mixin.py:115} INFO - [2022-07-07 14:55:25,892] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:25,896] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:25,957] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2022-07-07 14:55:29,601] {processor.py:153} INFO - Started process (PID=11568) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:29,601] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:29,602] {logging_mixin.py:115} INFO - [2022-07-07 14:55:29,602] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:29,604] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:29,646] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.050 seconds
+[2022-07-07 14:55:33,215] {processor.py:153} INFO - Started process (PID=11782) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:33,216] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:33,216] {logging_mixin.py:115} INFO - [2022-07-07 14:55:33,216] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:33,218] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:33,259] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2022-07-07 14:55:36,662] {processor.py:153} INFO - Started process (PID=12000) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:36,663] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:36,663] {logging_mixin.py:115} INFO - [2022-07-07 14:55:36,663] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:36,664] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:36,700] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2022-07-07 14:55:41,513] {processor.py:153} INFO - Started process (PID=12214) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:41,513] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:41,514] {logging_mixin.py:115} INFO - [2022-07-07 14:55:41,514] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:41,516] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:41,575] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2022-07-07 14:55:48,468] {processor.py:153} INFO - Started process (PID=12431) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:48,496] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:48,500] {logging_mixin.py:115} INFO - [2022-07-07 14:55:48,500] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:48,503] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:48,598] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.155 seconds
+[2022-07-07 14:55:56,518] {processor.py:153} INFO - Started process (PID=12655) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:56,525] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:55:56,526] {logging_mixin.py:115} INFO - [2022-07-07 14:55:56,526] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:56,532] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:55:56,596] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.096 seconds
+[2022-07-07 14:56:01,903] {processor.py:153} INFO - Started process (PID=12876) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:01,904] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:01,905] {logging_mixin.py:115} INFO - [2022-07-07 14:56:01,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:01,906] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:01,953] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2022-07-07 14:56:06,042] {processor.py:153} INFO - Started process (PID=13091) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:06,042] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:06,043] {logging_mixin.py:115} INFO - [2022-07-07 14:56:06,043] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:06,045] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:06,102] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2022-07-07 14:56:09,687] {processor.py:153} INFO - Started process (PID=13308) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:09,688] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:09,688] {logging_mixin.py:115} INFO - [2022-07-07 14:56:09,688] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:09,702] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:09,806] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.131 seconds
+[2022-07-07 14:56:13,060] {processor.py:153} INFO - Started process (PID=13524) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:13,061] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:13,062] {logging_mixin.py:115} INFO - [2022-07-07 14:56:13,062] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:13,063] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:13,116] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.061 seconds
+[2022-07-07 14:56:16,974] {processor.py:153} INFO - Started process (PID=13740) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:16,975] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:16,975] {logging_mixin.py:115} INFO - [2022-07-07 14:56:16,975] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:16,978] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:17,016] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:56:20,494] {processor.py:153} INFO - Started process (PID=13963) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:20,494] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:20,496] {logging_mixin.py:115} INFO - [2022-07-07 14:56:20,495] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:20,498] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:20,561] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.073 seconds
+[2022-07-07 14:56:23,581] {processor.py:153} INFO - Started process (PID=14179) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:23,582] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:23,583] {logging_mixin.py:115} INFO - [2022-07-07 14:56:23,583] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:23,584] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:23,633] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2022-07-07 14:56:26,727] {processor.py:153} INFO - Started process (PID=14395) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:26,727] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:26,728] {logging_mixin.py:115} INFO - [2022-07-07 14:56:26,728] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:26,730] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:26,764] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2022-07-07 14:56:29,908] {processor.py:153} INFO - Started process (PID=14617) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:29,909] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:29,910] {logging_mixin.py:115} INFO - [2022-07-07 14:56:29,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:29,912] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:29,959] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2022-07-07 14:56:33,140] {processor.py:153} INFO - Started process (PID=14842) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:33,140] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:33,141] {logging_mixin.py:115} INFO - [2022-07-07 14:56:33,141] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:33,142] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:33,176] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2022-07-07 14:56:36,194] {processor.py:153} INFO - Started process (PID=15058) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:36,195] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:36,196] {logging_mixin.py:115} INFO - [2022-07-07 14:56:36,195] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:36,200] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:36,240] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.050 seconds
+[2022-07-07 14:56:39,316] {processor.py:153} INFO - Started process (PID=15271) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:39,316] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:39,318] {logging_mixin.py:115} INFO - [2022-07-07 14:56:39,318] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:39,320] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:39,356] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2022-07-07 14:56:42,462] {processor.py:153} INFO - Started process (PID=15488) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:42,463] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:42,463] {logging_mixin.py:115} INFO - [2022-07-07 14:56:42,463] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:42,465] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:42,502] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:56:45,452] {processor.py:153} INFO - Started process (PID=15705) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:45,453] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:45,453] {logging_mixin.py:115} INFO - [2022-07-07 14:56:45,453] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:45,455] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:45,491] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:56:48,426] {processor.py:153} INFO - Started process (PID=15920) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:48,427] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:48,427] {logging_mixin.py:115} INFO - [2022-07-07 14:56:48,427] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:48,429] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:48,461] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2022-07-07 14:56:51,722] {processor.py:153} INFO - Started process (PID=16137) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:51,722] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:51,723] {logging_mixin.py:115} INFO - [2022-07-07 14:56:51,723] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:51,725] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:51,781] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2022-07-07 14:56:54,805] {processor.py:153} INFO - Started process (PID=16352) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:54,806] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:54,807] {logging_mixin.py:115} INFO - [2022-07-07 14:56:54,807] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:54,809] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:54,854] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.054 seconds
+[2022-07-07 14:56:57,815] {processor.py:153} INFO - Started process (PID=16571) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:57,820] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:56:57,820] {logging_mixin.py:115} INFO - [2022-07-07 14:56:57,820] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:57,822] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:56:57,863] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.052 seconds
+[2022-07-07 14:57:02,083] {processor.py:153} INFO - Started process (PID=16785) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:02,084] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:02,084] {logging_mixin.py:115} INFO - [2022-07-07 14:57:02,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:02,086] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:02,155] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.088 seconds
+[2022-07-07 14:57:05,327] {processor.py:153} INFO - Started process (PID=17008) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:05,328] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:05,328] {logging_mixin.py:115} INFO - [2022-07-07 14:57:05,328] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:05,330] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:05,362] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2022-07-07 14:57:08,554] {processor.py:153} INFO - Started process (PID=17230) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:08,555] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:08,556] {logging_mixin.py:115} INFO - [2022-07-07 14:57:08,555] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:08,557] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:08,591] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:57:11,339] {processor.py:153} INFO - Started process (PID=17445) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:11,340] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:11,340] {logging_mixin.py:115} INFO - [2022-07-07 14:57:11,340] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:11,342] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:11,378] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2022-07-07 14:57:14,556] {processor.py:153} INFO - Started process (PID=17665) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:14,557] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:14,558] {logging_mixin.py:115} INFO - [2022-07-07 14:57:14,558] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:14,561] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:14,606] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.057 seconds
+[2022-07-07 14:57:17,693] {processor.py:153} INFO - Started process (PID=17881) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:17,694] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:17,695] {logging_mixin.py:115} INFO - [2022-07-07 14:57:17,695] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:17,697] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:17,761] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.073 seconds
+[2022-07-07 14:57:20,686] {processor.py:153} INFO - Started process (PID=18095) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:20,687] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:20,687] {logging_mixin.py:115} INFO - [2022-07-07 14:57:20,687] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:20,690] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:20,725] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2022-07-07 14:57:23,752] {processor.py:153} INFO - Started process (PID=18311) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:23,753] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:23,754] {logging_mixin.py:115} INFO - [2022-07-07 14:57:23,753] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:23,755] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:23,814] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2022-07-07 14:57:26,873] {processor.py:153} INFO - Started process (PID=18527) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:26,874] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:26,875] {logging_mixin.py:115} INFO - [2022-07-07 14:57:26,875] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:26,880] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:26,941] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2022-07-07 14:57:30,093] {processor.py:153} INFO - Started process (PID=18744) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:30,094] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:30,094] {logging_mixin.py:115} INFO - [2022-07-07 14:57:30,094] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:30,096] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:30,131] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2022-07-07 14:57:33,133] {processor.py:153} INFO - Started process (PID=18960) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:33,135] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:33,136] {logging_mixin.py:115} INFO - [2022-07-07 14:57:33,135] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:33,138] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:33,182] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2022-07-07 14:57:36,326] {processor.py:153} INFO - Started process (PID=19176) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:36,327] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:36,328] {logging_mixin.py:115} INFO - [2022-07-07 14:57:36,328] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:36,331] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:36,394] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.074 seconds
+[2022-07-07 14:57:39,830] {processor.py:153} INFO - Started process (PID=19397) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:39,831] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:39,831] {logging_mixin.py:115} INFO - [2022-07-07 14:57:39,831] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:39,833] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:39,865] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2022-07-07 14:57:42,579] {processor.py:153} INFO - Started process (PID=19614) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:42,580] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:42,581] {logging_mixin.py:115} INFO - [2022-07-07 14:57:42,581] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:42,583] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:42,634] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.061 seconds
+[2022-07-07 14:57:45,422] {processor.py:153} INFO - Started process (PID=19833) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:45,423] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:45,423] {logging_mixin.py:115} INFO - [2022-07-07 14:57:45,423] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:45,425] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:45,461] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-07-07 14:57:48,129] {processor.py:153} INFO - Started process (PID=20046) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:48,130] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:48,131] {logging_mixin.py:115} INFO - [2022-07-07 14:57:48,131] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:48,133] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:48,183] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2022-07-07 14:57:51,170] {processor.py:153} INFO - Started process (PID=20264) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:51,170] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:51,171] {logging_mixin.py:115} INFO - [2022-07-07 14:57:51,171] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:51,173] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:51,224] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2022-07-07 14:57:54,660] {processor.py:153} INFO - Started process (PID=20478) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:54,661] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:54,662] {logging_mixin.py:115} INFO - [2022-07-07 14:57:54,661] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:54,663] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:54,703] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2022-07-07 14:57:57,571] {processor.py:153} INFO - Started process (PID=20695) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:57,572] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:57:57,572] {logging_mixin.py:115} INFO - [2022-07-07 14:57:57,572] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:57,574] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:57:57,606] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2022-07-07 14:58:00,561] {processor.py:153} INFO - Started process (PID=20914) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:00,562] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:00,563] {logging_mixin.py:115} INFO - [2022-07-07 14:58:00,562] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:00,564] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:00,612] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.057 seconds
+[2022-07-07 14:58:04,806] {processor.py:153} INFO - Started process (PID=21127) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:04,806] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:04,807] {logging_mixin.py:115} INFO - [2022-07-07 14:58:04,807] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:04,809] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:04,854] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2022-07-07 14:58:08,450] {processor.py:153} INFO - Started process (PID=21344) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:08,453] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:08,454] {logging_mixin.py:115} INFO - [2022-07-07 14:58:08,454] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:08,456] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:08,499] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.054 seconds
+[2022-07-07 14:58:11,760] {processor.py:153} INFO - Started process (PID=21560) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:11,761] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:11,762] {logging_mixin.py:115} INFO - [2022-07-07 14:58:11,762] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:11,764] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:11,800] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-07-07 14:58:15,370] {processor.py:153} INFO - Started process (PID=21783) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:15,371] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:15,372] {logging_mixin.py:115} INFO - [2022-07-07 14:58:15,372] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:15,375] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:15,426] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2022-07-07 14:58:19,362] {processor.py:153} INFO - Started process (PID=22005) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:19,363] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:19,364] {logging_mixin.py:115} INFO - [2022-07-07 14:58:19,364] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:19,366] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:19,443] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.088 seconds
+[2022-07-07 14:58:23,001] {processor.py:153} INFO - Started process (PID=22221) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:23,003] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:23,004] {logging_mixin.py:115} INFO - [2022-07-07 14:58:23,004] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:23,010] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:23,054] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2022-07-07 14:58:26,560] {processor.py:153} INFO - Started process (PID=22437) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:26,560] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:26,561] {logging_mixin.py:115} INFO - [2022-07-07 14:58:26,561] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:26,562] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:26,610] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.054 seconds
+[2022-07-07 14:58:30,144] {processor.py:153} INFO - Started process (PID=22654) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:30,144] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:30,145] {logging_mixin.py:115} INFO - [2022-07-07 14:58:30,144] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:30,146] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:30,183] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2022-07-07 14:58:33,632] {processor.py:153} INFO - Started process (PID=22870) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:33,633] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:33,634] {logging_mixin.py:115} INFO - [2022-07-07 14:58:33,634] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:33,636] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:33,684] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2022-07-07 14:58:37,373] {processor.py:153} INFO - Started process (PID=23086) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:37,373] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:37,374] {logging_mixin.py:115} INFO - [2022-07-07 14:58:37,374] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:37,375] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:37,415] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-07-07 14:58:41,071] {processor.py:153} INFO - Started process (PID=23302) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:41,071] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:41,072] {logging_mixin.py:115} INFO - [2022-07-07 14:58:41,072] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:41,075] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:41,142] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.078 seconds
+[2022-07-07 14:58:44,131] {processor.py:153} INFO - Started process (PID=23518) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:44,132] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:44,132] {logging_mixin.py:115} INFO - [2022-07-07 14:58:44,132] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:44,134] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:44,171] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-07-07 14:58:47,117] {processor.py:153} INFO - Started process (PID=23733) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:47,118] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:47,118] {logging_mixin.py:115} INFO - [2022-07-07 14:58:47,118] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:47,120] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:47,171] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2022-07-07 14:58:50,765] {processor.py:153} INFO - Started process (PID=23965) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:50,765] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:50,766] {logging_mixin.py:115} INFO - [2022-07-07 14:58:50,766] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:50,770] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:50,814] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.054 seconds
+[2022-07-07 14:58:54,314] {processor.py:153} INFO - Started process (PID=24185) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:54,316] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-07 14:58:54,321] {logging_mixin.py:115} INFO - [2022-07-07 14:58:54,320] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:54,324] {processor.py:653} WARNING - No viable dags retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-07 14:58:54,374] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.070 seconds

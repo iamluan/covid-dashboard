@@ -1,0 +1,27 @@
+[2022-07-07 16:46:10,042] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: last30days_covid.transform_and_load manual__2022-07-07T09:45:47.583893+00:00 [queued]>
+[2022-07-07 16:46:10,059] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: last30days_covid.transform_and_load manual__2022-07-07T09:45:47.583893+00:00 [queued]>
+[2022-07-07 16:46:10,059] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-07 16:46:10,059] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-07-07 16:46:10,059] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-07 16:46:10,097] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): transform_and_load> on 2022-07-07 09:45:47.583893+00:00
+[2022-07-07 16:46:10,101] {standard_task_runner.py:52} INFO - Started process 7876 to run task
+[2022-07-07 16:46:10,117] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'last30days_covid', 'transform_and_load', 'manual__2022-07-07T09:45:47.583893+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/last30days_covid.py', '--cfg-path', '/tmp/tmpitn6wtnv', '--error-file', '/tmp/tmpoigatyi8']
+[2022-07-07 16:46:10,120] {standard_task_runner.py:80} INFO - Job 14: Subtask transform_and_load
+[2022-07-07 16:46:10,288] {task_command.py:370} INFO - Running <TaskInstance: last30days_covid.transform_and_load manual__2022-07-07T09:45:47.583893+00:00 [running]> on host DESKTOP-FMPNIM0.localdomain
+[2022-07-07 16:46:10,419] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=last30days_covid
+AIRFLOW_CTX_TASK_ID=transform_and_load
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-07T09:45:47.583893+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-07-07T09:45:47.583893+00:00
+[2022-07-07 16:46:10,420] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-07-07 16:46:10,421] {subprocess.py:74} INFO - Running command: ['bash', '-c', '/home/luan/projects/covid_dashboard/pipelines/vn_etl/bash_scripts/last30days_etl/2_transformation.sh ']
+[2022-07-07 16:46:10,431] {subprocess.py:85} INFO - Output:
+[2022-07-07 16:46:14,039] {subprocess.py:96} INFO - Command exited with return code 0
+[2022-07-07 16:46:14,083] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=last30days_covid, task_id=transform_and_load, execution_date=20220707T094547, start_date=20220707T094610, end_date=20220707T094614
+[2022-07-07 16:46:14,154] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-07-07 16:46:14,319] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

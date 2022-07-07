@@ -1,0 +1,34 @@
+[2022-07-07 16:27:32,107] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: last30days_covid.extract scheduled__2022-07-06T09:27:31.726610+00:00 [queued]>
+[2022-07-07 16:27:32,124] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: last30days_covid.extract scheduled__2022-07-06T09:27:31.726610+00:00 [queued]>
+[2022-07-07 16:27:32,124] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-07 16:27:32,124] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-07-07 16:27:32,124] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-07 16:27:32,142] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): extract> on 2022-07-06 09:27:31.726610+00:00
+[2022-07-07 16:27:32,146] {standard_task_runner.py:52} INFO - Started process 2928 to run task
+[2022-07-07 16:27:32,151] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'last30days_covid', 'extract', 'scheduled__2022-07-06T09:27:31.726610+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/last30days_covid.py', '--cfg-path', '/tmp/tmp7czedbg8', '--error-file', '/tmp/tmpnjcuxbtu']
+[2022-07-07 16:27:32,153] {standard_task_runner.py:80} INFO - Job 11: Subtask extract
+[2022-07-07 16:27:32,277] {task_command.py:370} INFO - Running <TaskInstance: last30days_covid.extract scheduled__2022-07-06T09:27:31.726610+00:00 [running]> on host DESKTOP-FMPNIM0.localdomain
+[2022-07-07 16:27:32,411] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=last30days_covid
+AIRFLOW_CTX_TASK_ID=extract
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-06T09:27:31.726610+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-06T09:27:31.726610+00:00
+[2022-07-07 16:27:32,412] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-07-07 16:27:32,413] {subprocess.py:74} INFO - Running command: ['bash', '-c', '/home/luan/projects/covid_dashboard/pipelines/vn_etl/bash_scripts/last30days_etl/1_extract.sh ']
+[2022-07-07 16:27:32,422] {subprocess.py:85} INFO - Output:
+[2022-07-07 16:27:32,425] {subprocess.py:92} INFO - /home/luan/projects/covid_dashboard/pipelines/vn_etl/bash_scripts/last30days_etl/1_extract.sh: line 5: scrapy: command not found
+[2022-07-07 16:27:32,426] {subprocess.py:96} INFO - Command exited with return code 127
+[2022-07-07 16:27:32,454] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/luan/.local/lib/python3.8/site-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 127.
+[2022-07-07 16:27:32,459] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=last30days_covid, task_id=extract, execution_date=20220706T092731, start_date=20220707T092732, end_date=20220707T092732
+[2022-07-07 16:27:32,476] {standard_task_runner.py:92} ERROR - Failed to execute job 11 for task extract (Bash command failed. The command returned a non-zero exit code 127.; 2928)
+[2022-07-07 16:27:32,483] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-07-07 16:27:32,572] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

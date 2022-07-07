@@ -1,0 +1,704 @@
+[2022-07-07 14:52:51,923] {processor.py:153} INFO - Started process (PID=2675) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:52:51,924] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:52:51,925] {logging_mixin.py:115} INFO - [2022-07-07 14:52:51,925] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:52:51,936] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:52:52,163] {logging_mixin.py:115} INFO - [2022-07-07 14:52:52,163] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2022-07-07 14:52:52,178] {logging_mixin.py:115} INFO - [2022-07-07 14:52:52,178] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2022-07-07 14:52:52,196] {logging_mixin.py:115} INFO - [2022-07-07 14:52:52,196] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2022-07-07 14:52:52,196] {logging_mixin.py:115} INFO - [2022-07-07 14:52:52,196] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:52:52,208] {logging_mixin.py:115} INFO - [2022-07-07 14:52:52,208] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2022-07-07 14:52:52,231] {logging_mixin.py:115} INFO - [2022-07-07 14:52:52,231] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:52:52.230676+00:00, run_after=2022-07-07T07:52:52.230676+00:00
+[2022-07-07 14:52:52,257] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.341 seconds
+[2022-07-07 14:52:57,844] {processor.py:153} INFO - Started process (PID=2904) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:52:57,844] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:52:57,845] {logging_mixin.py:115} INFO - [2022-07-07 14:52:57,845] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:52:57,857] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:52:57,889] {logging_mixin.py:115} INFO - [2022-07-07 14:52:57,889] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:52:57,924] {logging_mixin.py:115} INFO - [2022-07-07 14:52:57,923] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:52:57.923437+00:00, run_after=2022-07-07T07:52:57.923437+00:00
+[2022-07-07 14:52:57,940] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.102 seconds
+[2022-07-07 14:53:02,199] {processor.py:153} INFO - Started process (PID=3131) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:02,202] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:02,203] {logging_mixin.py:115} INFO - [2022-07-07 14:53:02,203] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:02,215] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:02,274] {logging_mixin.py:115} INFO - [2022-07-07 14:53:02,274] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:02,313] {logging_mixin.py:115} INFO - [2022-07-07 14:53:02,313] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:02.313196+00:00, run_after=2022-07-07T07:53:02.313196+00:00
+[2022-07-07 14:53:02,369] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.175 seconds
+[2022-07-07 14:53:05,970] {processor.py:153} INFO - Started process (PID=3348) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:05,970] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:05,971] {logging_mixin.py:115} INFO - [2022-07-07 14:53:05,971] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:05,979] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:06,014] {logging_mixin.py:115} INFO - [2022-07-07 14:53:06,014] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:06,048] {logging_mixin.py:115} INFO - [2022-07-07 14:53:06,048] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:06.048032+00:00, run_after=2022-07-07T07:53:06.048032+00:00
+[2022-07-07 14:53:06,093] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.128 seconds
+[2022-07-07 14:53:08,631] {processor.py:153} INFO - Started process (PID=3564) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:08,631] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:08,632] {logging_mixin.py:115} INFO - [2022-07-07 14:53:08,632] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:08,642] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:08,683] {logging_mixin.py:115} INFO - [2022-07-07 14:53:08,683] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:08,708] {logging_mixin.py:115} INFO - [2022-07-07 14:53:08,708] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:08.708465+00:00, run_after=2022-07-07T07:53:08.708465+00:00
+[2022-07-07 14:53:08,728] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.100 seconds
+[2022-07-07 14:53:11,410] {processor.py:153} INFO - Started process (PID=3779) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:11,411] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:11,411] {logging_mixin.py:115} INFO - [2022-07-07 14:53:11,411] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:11,422] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:11,456] {logging_mixin.py:115} INFO - [2022-07-07 14:53:11,456] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:11,479] {logging_mixin.py:115} INFO - [2022-07-07 14:53:11,479] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:11.478845+00:00, run_after=2022-07-07T07:53:11.478845+00:00
+[2022-07-07 14:53:11,510] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.104 seconds
+[2022-07-07 14:53:13,814] {processor.py:153} INFO - Started process (PID=3995) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:13,815] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:13,815] {logging_mixin.py:115} INFO - [2022-07-07 14:53:13,815] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:13,824] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:13,854] {logging_mixin.py:115} INFO - [2022-07-07 14:53:13,854] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:13,882] {logging_mixin.py:115} INFO - [2022-07-07 14:53:13,882] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:13.882036+00:00, run_after=2022-07-07T07:53:13.882036+00:00
+[2022-07-07 14:53:13,905] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.095 seconds
+[2022-07-07 14:53:16,403] {processor.py:153} INFO - Started process (PID=4213) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:16,404] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:16,404] {logging_mixin.py:115} INFO - [2022-07-07 14:53:16,404] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:16,415] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:16,459] {logging_mixin.py:115} INFO - [2022-07-07 14:53:16,458] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:16,496] {logging_mixin.py:115} INFO - [2022-07-07 14:53:16,496] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:16.496188+00:00, run_after=2022-07-07T07:53:16.496188+00:00
+[2022-07-07 14:53:16,522] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.123 seconds
+[2022-07-07 14:53:18,860] {processor.py:153} INFO - Started process (PID=4429) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:18,861] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:18,861] {logging_mixin.py:115} INFO - [2022-07-07 14:53:18,861] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:18,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:18,912] {logging_mixin.py:115} INFO - [2022-07-07 14:53:18,911] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:18,951] {logging_mixin.py:115} INFO - [2022-07-07 14:53:18,951] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:18.951351+00:00, run_after=2022-07-07T07:53:18.951351+00:00
+[2022-07-07 14:53:18,977] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.120 seconds
+[2022-07-07 14:53:21,854] {processor.py:153} INFO - Started process (PID=4647) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:21,854] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:21,855] {logging_mixin.py:115} INFO - [2022-07-07 14:53:21,854] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:21,865] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:21,897] {logging_mixin.py:115} INFO - [2022-07-07 14:53:21,897] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:21,923] {logging_mixin.py:115} INFO - [2022-07-07 14:53:21,923] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:21.923214+00:00, run_after=2022-07-07T07:53:21.923214+00:00
+[2022-07-07 14:53:21,939] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.089 seconds
+[2022-07-07 14:53:24,840] {processor.py:153} INFO - Started process (PID=4860) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:24,841] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:24,842] {logging_mixin.py:115} INFO - [2022-07-07 14:53:24,841] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:24,858] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:24,930] {logging_mixin.py:115} INFO - [2022-07-07 14:53:24,929] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:24,975] {logging_mixin.py:115} INFO - [2022-07-07 14:53:24,975] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:24.974809+00:00, run_after=2022-07-07T07:53:24.974809+00:00
+[2022-07-07 14:53:25,025] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.189 seconds
+[2022-07-07 14:53:28,387] {processor.py:153} INFO - Started process (PID=5077) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:28,395] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:28,396] {logging_mixin.py:115} INFO - [2022-07-07 14:53:28,396] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:28,446] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:28,585] {logging_mixin.py:115} INFO - [2022-07-07 14:53:28,585] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:28,675] {logging_mixin.py:115} INFO - [2022-07-07 14:53:28,674] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:28.674352+00:00, run_after=2022-07-07T07:53:28.674352+00:00
+[2022-07-07 14:53:28,724] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.350 seconds
+[2022-07-07 14:53:32,726] {processor.py:153} INFO - Started process (PID=5300) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:32,726] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:32,727] {logging_mixin.py:115} INFO - [2022-07-07 14:53:32,727] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:32,740] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:32,817] {logging_mixin.py:115} INFO - [2022-07-07 14:53:32,817] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:32,858] {logging_mixin.py:115} INFO - [2022-07-07 14:53:32,858] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:32.857740+00:00, run_after=2022-07-07T07:53:32.857740+00:00
+[2022-07-07 14:53:32,902] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.183 seconds
+[2022-07-07 14:53:40,132] {processor.py:153} INFO - Started process (PID=5521) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:40,133] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:40,144] {logging_mixin.py:115} INFO - [2022-07-07 14:53:40,144] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:40,177] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:40,311] {logging_mixin.py:115} INFO - [2022-07-07 14:53:40,311] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:40,408] {logging_mixin.py:115} INFO - [2022-07-07 14:53:40,408] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:40.402343+00:00, run_after=2022-07-07T07:53:40.402343+00:00
+[2022-07-07 14:53:40,447] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.321 seconds
+[2022-07-07 14:53:48,203] {processor.py:153} INFO - Started process (PID=5738) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:48,204] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:48,205] {logging_mixin.py:115} INFO - [2022-07-07 14:53:48,205] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:48,239] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:48,380] {logging_mixin.py:115} INFO - [2022-07-07 14:53:48,380] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:48,479] {logging_mixin.py:115} INFO - [2022-07-07 14:53:48,479] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:48.478765+00:00, run_after=2022-07-07T07:53:48.478765+00:00
+[2022-07-07 14:53:48,564] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.376 seconds
+[2022-07-07 14:53:56,433] {processor.py:153} INFO - Started process (PID=5955) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:56,433] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:53:56,434] {logging_mixin.py:115} INFO - [2022-07-07 14:53:56,434] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:56,466] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:53:56,626] {logging_mixin.py:115} INFO - [2022-07-07 14:53:56,625] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:53:56,725] {logging_mixin.py:115} INFO - [2022-07-07 14:53:56,725] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:53:56.724659+00:00, run_after=2022-07-07T07:53:56.724659+00:00
+[2022-07-07 14:53:56,789] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.374 seconds
+[2022-07-07 14:54:01,148] {processor.py:153} INFO - Started process (PID=6172) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:01,153] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:01,154] {logging_mixin.py:115} INFO - [2022-07-07 14:54:01,154] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:01,168] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:01,225] {logging_mixin.py:115} INFO - [2022-07-07 14:54:01,225] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:01,257] {logging_mixin.py:115} INFO - [2022-07-07 14:54:01,257] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:01.257314+00:00, run_after=2022-07-07T07:54:01.257314+00:00
+[2022-07-07 14:54:01,275] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.132 seconds
+[2022-07-07 14:54:04,450] {processor.py:153} INFO - Started process (PID=6387) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:04,450] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:04,451] {logging_mixin.py:115} INFO - [2022-07-07 14:54:04,451] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:04,466] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:04,566] {logging_mixin.py:115} INFO - [2022-07-07 14:54:04,566] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:04,612] {logging_mixin.py:115} INFO - [2022-07-07 14:54:04,612] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:04.610989+00:00, run_after=2022-07-07T07:54:04.610989+00:00
+[2022-07-07 14:54:04,648] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.203 seconds
+[2022-07-07 14:54:08,017] {processor.py:153} INFO - Started process (PID=6609) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:08,018] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:08,019] {logging_mixin.py:115} INFO - [2022-07-07 14:54:08,018] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:08,026] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:08,064] {logging_mixin.py:115} INFO - [2022-07-07 14:54:08,064] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:08,089] {logging_mixin.py:115} INFO - [2022-07-07 14:54:08,088] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:08.088650+00:00, run_after=2022-07-07T07:54:08.088650+00:00
+[2022-07-07 14:54:08,108] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.095 seconds
+[2022-07-07 14:54:13,602] {processor.py:153} INFO - Started process (PID=6832) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:13,603] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:13,604] {logging_mixin.py:115} INFO - [2022-07-07 14:54:13,604] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:13,636] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:13,762] {logging_mixin.py:115} INFO - [2022-07-07 14:54:13,762] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:13,826] {logging_mixin.py:115} INFO - [2022-07-07 14:54:13,825] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:13.825291+00:00, run_after=2022-07-07T07:54:13.825291+00:00
+[2022-07-07 14:54:13,874] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.289 seconds
+[2022-07-07 14:54:17,766] {processor.py:153} INFO - Started process (PID=7049) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:17,767] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:17,767] {logging_mixin.py:115} INFO - [2022-07-07 14:54:17,767] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:17,781] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:17,831] {logging_mixin.py:115} INFO - [2022-07-07 14:54:17,830] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:17,856] {logging_mixin.py:115} INFO - [2022-07-07 14:54:17,856] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:17.856250+00:00, run_after=2022-07-07T07:54:17.856250+00:00
+[2022-07-07 14:54:17,871] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.111 seconds
+[2022-07-07 14:54:22,299] {processor.py:153} INFO - Started process (PID=7265) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:22,300] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:22,301] {logging_mixin.py:115} INFO - [2022-07-07 14:54:22,301] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:22,318] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:22,372] {logging_mixin.py:115} INFO - [2022-07-07 14:54:22,372] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:22,413] {logging_mixin.py:115} INFO - [2022-07-07 14:54:22,412] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:22.411995+00:00, run_after=2022-07-07T07:54:22.411995+00:00
+[2022-07-07 14:54:22,442] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.152 seconds
+[2022-07-07 14:54:26,737] {processor.py:153} INFO - Started process (PID=7481) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:26,737] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:26,738] {logging_mixin.py:115} INFO - [2022-07-07 14:54:26,738] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:26,748] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:26,801] {logging_mixin.py:115} INFO - [2022-07-07 14:54:26,801] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:26,830] {logging_mixin.py:115} INFO - [2022-07-07 14:54:26,830] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:26.830008+00:00, run_after=2022-07-07T07:54:26.830008+00:00
+[2022-07-07 14:54:26,868] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.135 seconds
+[2022-07-07 14:54:30,185] {processor.py:153} INFO - Started process (PID=7704) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:30,185] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:30,186] {logging_mixin.py:115} INFO - [2022-07-07 14:54:30,186] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:30,202] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:30,283] {logging_mixin.py:115} INFO - [2022-07-07 14:54:30,283] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:30,341] {logging_mixin.py:115} INFO - [2022-07-07 14:54:30,341] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:30.340422+00:00, run_after=2022-07-07T07:54:30.340422+00:00
+[2022-07-07 14:54:30,377] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.203 seconds
+[2022-07-07 14:54:33,182] {processor.py:153} INFO - Started process (PID=7919) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:33,183] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:33,184] {logging_mixin.py:115} INFO - [2022-07-07 14:54:33,184] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:33,195] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:33,243] {logging_mixin.py:115} INFO - [2022-07-07 14:54:33,243] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:33,275] {logging_mixin.py:115} INFO - [2022-07-07 14:54:33,275] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:33.274710+00:00, run_after=2022-07-07T07:54:33.274710+00:00
+[2022-07-07 14:54:33,313] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.136 seconds
+[2022-07-07 14:54:35,820] {processor.py:153} INFO - Started process (PID=8136) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:35,821] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:35,821] {logging_mixin.py:115} INFO - [2022-07-07 14:54:35,821] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:35,831] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:35,866] {logging_mixin.py:115} INFO - [2022-07-07 14:54:35,866] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:35,891] {logging_mixin.py:115} INFO - [2022-07-07 14:54:35,891] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:35.891151+00:00, run_after=2022-07-07T07:54:35.891151+00:00
+[2022-07-07 14:54:35,938] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.123 seconds
+[2022-07-07 14:54:38,544] {processor.py:153} INFO - Started process (PID=8352) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:38,545] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:38,546] {logging_mixin.py:115} INFO - [2022-07-07 14:54:38,545] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:38,555] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:38,603] {logging_mixin.py:115} INFO - [2022-07-07 14:54:38,603] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:38,640] {logging_mixin.py:115} INFO - [2022-07-07 14:54:38,639] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:38.639244+00:00, run_after=2022-07-07T07:54:38.639244+00:00
+[2022-07-07 14:54:38,668] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.128 seconds
+[2022-07-07 14:54:41,164] {processor.py:153} INFO - Started process (PID=8574) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:41,165] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:41,166] {logging_mixin.py:115} INFO - [2022-07-07 14:54:41,166] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:41,177] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:41,221] {logging_mixin.py:115} INFO - [2022-07-07 14:54:41,221] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:41,248] {logging_mixin.py:115} INFO - [2022-07-07 14:54:41,248] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:41.247811+00:00, run_after=2022-07-07T07:54:41.247811+00:00
+[2022-07-07 14:54:41,265] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.108 seconds
+[2022-07-07 14:54:44,463] {processor.py:153} INFO - Started process (PID=8797) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:44,463] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:44,464] {logging_mixin.py:115} INFO - [2022-07-07 14:54:44,464] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:44,473] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:44,515] {logging_mixin.py:115} INFO - [2022-07-07 14:54:44,514] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:44,543] {logging_mixin.py:115} INFO - [2022-07-07 14:54:44,543] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:44.543033+00:00, run_after=2022-07-07T07:54:44.543033+00:00
+[2022-07-07 14:54:44,557] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.099 seconds
+[2022-07-07 14:54:47,619] {processor.py:153} INFO - Started process (PID=9013) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:47,620] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:47,621] {logging_mixin.py:115} INFO - [2022-07-07 14:54:47,620] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:47,634] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:47,688] {logging_mixin.py:115} INFO - [2022-07-07 14:54:47,688] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:47,722] {logging_mixin.py:115} INFO - [2022-07-07 14:54:47,722] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:47.721752+00:00, run_after=2022-07-07T07:54:47.721752+00:00
+[2022-07-07 14:54:47,761] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.147 seconds
+[2022-07-07 14:54:51,100] {processor.py:153} INFO - Started process (PID=9229) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:51,100] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:51,101] {logging_mixin.py:115} INFO - [2022-07-07 14:54:51,101] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:51,108] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:51,148] {logging_mixin.py:115} INFO - [2022-07-07 14:54:51,147] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:51,175] {logging_mixin.py:115} INFO - [2022-07-07 14:54:51,175] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:51.175102+00:00, run_after=2022-07-07T07:54:51.175102+00:00
+[2022-07-07 14:54:51,193] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.097 seconds
+[2022-07-07 14:54:54,243] {processor.py:153} INFO - Started process (PID=9445) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:54,243] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:54,244] {logging_mixin.py:115} INFO - [2022-07-07 14:54:54,244] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:54,251] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:54,318] {logging_mixin.py:115} INFO - [2022-07-07 14:54:54,318] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:54,346] {logging_mixin.py:115} INFO - [2022-07-07 14:54:54,346] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:54.345873+00:00, run_after=2022-07-07T07:54:54.345873+00:00
+[2022-07-07 14:54:54,396] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.157 seconds
+[2022-07-07 14:54:57,782] {processor.py:153} INFO - Started process (PID=9661) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:57,783] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:54:57,784] {logging_mixin.py:115} INFO - [2022-07-07 14:54:57,784] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:57,792] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:54:57,858] {logging_mixin.py:115} INFO - [2022-07-07 14:54:57,858] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:54:57,932] {logging_mixin.py:115} INFO - [2022-07-07 14:54:57,932] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:54:57.931694+00:00, run_after=2022-07-07T07:54:57.931694+00:00
+[2022-07-07 14:54:58,009] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.230 seconds
+[2022-07-07 14:55:00,947] {processor.py:153} INFO - Started process (PID=9877) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:00,947] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:00,948] {logging_mixin.py:115} INFO - [2022-07-07 14:55:00,948] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:00,956] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:00,991] {logging_mixin.py:115} INFO - [2022-07-07 14:55:00,991] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:01,023] {logging_mixin.py:115} INFO - [2022-07-07 14:55:01,023] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:01.023087+00:00, run_after=2022-07-07T07:55:01.023087+00:00
+[2022-07-07 14:55:01,047] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.105 seconds
+[2022-07-07 14:55:05,094] {processor.py:153} INFO - Started process (PID=10094) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:05,095] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:05,095] {logging_mixin.py:115} INFO - [2022-07-07 14:55:05,095] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:05,112] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:05,230] {logging_mixin.py:115} INFO - [2022-07-07 14:55:05,230] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:05,328] {logging_mixin.py:115} INFO - [2022-07-07 14:55:05,328] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:05.327887+00:00, run_after=2022-07-07T07:55:05.327887+00:00
+[2022-07-07 14:55:05,391] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.302 seconds
+[2022-07-07 14:55:10,025] {processor.py:153} INFO - Started process (PID=10310) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:10,035] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:10,036] {logging_mixin.py:115} INFO - [2022-07-07 14:55:10,036] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:10,053] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:10,122] {logging_mixin.py:115} INFO - [2022-07-07 14:55:10,122] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:10,172] {logging_mixin.py:115} INFO - [2022-07-07 14:55:10,172] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:10.170322+00:00, run_after=2022-07-07T07:55:10.170322+00:00
+[2022-07-07 14:55:10,203] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.186 seconds
+[2022-07-07 14:55:13,931] {processor.py:153} INFO - Started process (PID=10526) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:13,931] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:13,932] {logging_mixin.py:115} INFO - [2022-07-07 14:55:13,932] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:13,949] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:14,025] {logging_mixin.py:115} INFO - [2022-07-07 14:55:14,025] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:14,084] {logging_mixin.py:115} INFO - [2022-07-07 14:55:14,083] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:14.083107+00:00, run_after=2022-07-07T07:55:14.083107+00:00
+[2022-07-07 14:55:14,123] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.197 seconds
+[2022-07-07 14:55:17,227] {processor.py:153} INFO - Started process (PID=10748) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:17,228] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:17,229] {logging_mixin.py:115} INFO - [2022-07-07 14:55:17,229] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:17,241] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:17,302] {logging_mixin.py:115} INFO - [2022-07-07 14:55:17,302] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:17,340] {logging_mixin.py:115} INFO - [2022-07-07 14:55:17,339] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:17.339214+00:00, run_after=2022-07-07T07:55:17.339214+00:00
+[2022-07-07 14:55:17,367] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.143 seconds
+[2022-07-07 14:55:20,430] {processor.py:153} INFO - Started process (PID=10971) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:20,431] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:20,432] {logging_mixin.py:115} INFO - [2022-07-07 14:55:20,431] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:20,443] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:20,509] {logging_mixin.py:115} INFO - [2022-07-07 14:55:20,508] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:20,562] {logging_mixin.py:115} INFO - [2022-07-07 14:55:20,562] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:20.561600+00:00, run_after=2022-07-07T07:55:20.561600+00:00
+[2022-07-07 14:55:20,585] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.172 seconds
+[2022-07-07 14:55:23,424] {processor.py:153} INFO - Started process (PID=11187) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:23,425] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:23,425] {logging_mixin.py:115} INFO - [2022-07-07 14:55:23,425] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:23,441] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:23,489] {logging_mixin.py:115} INFO - [2022-07-07 14:55:23,489] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:23,524] {logging_mixin.py:115} INFO - [2022-07-07 14:55:23,524] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:23.524060+00:00, run_after=2022-07-07T07:55:23.524060+00:00
+[2022-07-07 14:55:23,544] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.126 seconds
+[2022-07-07 14:55:26,751] {processor.py:153} INFO - Started process (PID=11403) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:26,752] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:26,753] {logging_mixin.py:115} INFO - [2022-07-07 14:55:26,753] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:26,765] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:26,814] {logging_mixin.py:115} INFO - [2022-07-07 14:55:26,813] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:26,868] {logging_mixin.py:115} INFO - [2022-07-07 14:55:26,868] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:26.867154+00:00, run_after=2022-07-07T07:55:26.867154+00:00
+[2022-07-07 14:55:26,899] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.154 seconds
+[2022-07-07 14:55:30,410] {processor.py:153} INFO - Started process (PID=11620) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:30,410] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:30,412] {logging_mixin.py:115} INFO - [2022-07-07 14:55:30,412] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:30,425] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:30,491] {logging_mixin.py:115} INFO - [2022-07-07 14:55:30,491] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:30,528] {logging_mixin.py:115} INFO - [2022-07-07 14:55:30,527] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:30.526778+00:00, run_after=2022-07-07T07:55:30.526778+00:00
+[2022-07-07 14:55:30,549] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.143 seconds
+[2022-07-07 14:55:33,880] {processor.py:153} INFO - Started process (PID=11836) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:33,881] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:33,881] {logging_mixin.py:115} INFO - [2022-07-07 14:55:33,881] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:33,891] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:33,951] {logging_mixin.py:115} INFO - [2022-07-07 14:55:33,951] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:33,984] {logging_mixin.py:115} INFO - [2022-07-07 14:55:33,983] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:33.983297+00:00, run_after=2022-07-07T07:55:33.983297+00:00
+[2022-07-07 14:55:34,002] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.126 seconds
+[2022-07-07 14:55:37,406] {processor.py:153} INFO - Started process (PID=12052) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:37,407] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:37,408] {logging_mixin.py:115} INFO - [2022-07-07 14:55:37,408] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:37,473] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:37,581] {logging_mixin.py:115} INFO - [2022-07-07 14:55:37,581] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:37,622] {logging_mixin.py:115} INFO - [2022-07-07 14:55:37,622] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:37.621975+00:00, run_after=2022-07-07T07:55:37.621975+00:00
+[2022-07-07 14:55:37,645] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.255 seconds
+[2022-07-07 14:55:42,662] {processor.py:153} INFO - Started process (PID=12268) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:42,663] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:42,664] {logging_mixin.py:115} INFO - [2022-07-07 14:55:42,664] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:42,684] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:42,755] {logging_mixin.py:115} INFO - [2022-07-07 14:55:42,755] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:42,832] {logging_mixin.py:115} INFO - [2022-07-07 14:55:42,832] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:42.831652+00:00, run_after=2022-07-07T07:55:42.831652+00:00
+[2022-07-07 14:55:42,913] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.257 seconds
+[2022-07-07 14:55:50,487] {processor.py:153} INFO - Started process (PID=12485) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:50,488] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:50,489] {logging_mixin.py:115} INFO - [2022-07-07 14:55:50,488] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:50,522] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:50,651] {logging_mixin.py:115} INFO - [2022-07-07 14:55:50,651] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:50,743] {logging_mixin.py:115} INFO - [2022-07-07 14:55:50,743] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:50.743149+00:00, run_after=2022-07-07T07:55:50.743149+00:00
+[2022-07-07 14:55:50,803] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.330 seconds
+[2022-07-07 14:55:57,653] {processor.py:153} INFO - Started process (PID=12707) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:57,655] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:55:57,659] {logging_mixin.py:115} INFO - [2022-07-07 14:55:57,659] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:57,691] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:55:57,770] {logging_mixin.py:115} INFO - [2022-07-07 14:55:57,770] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:55:57,825] {logging_mixin.py:115} INFO - [2022-07-07 14:55:57,824] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:55:57.824402+00:00, run_after=2022-07-07T07:55:57.824402+00:00
+[2022-07-07 14:55:57,851] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.220 seconds
+[2022-07-07 14:56:02,884] {processor.py:153} INFO - Started process (PID=12929) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:02,885] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:02,886] {logging_mixin.py:115} INFO - [2022-07-07 14:56:02,886] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:02,904] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:02,987] {logging_mixin.py:115} INFO - [2022-07-07 14:56:02,987] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:03,063] {logging_mixin.py:115} INFO - [2022-07-07 14:56:03,063] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:03.062852+00:00, run_after=2022-07-07T07:56:03.062852+00:00
+[2022-07-07 14:56:03,106] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.227 seconds
+[2022-07-07 14:56:06,774] {processor.py:153} INFO - Started process (PID=13146) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:06,775] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:06,776] {logging_mixin.py:115} INFO - [2022-07-07 14:56:06,776] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:06,789] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:06,887] {logging_mixin.py:115} INFO - [2022-07-07 14:56:06,887] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:06,934] {logging_mixin.py:115} INFO - [2022-07-07 14:56:06,934] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:06.933758+00:00, run_after=2022-07-07T07:56:06.933758+00:00
+[2022-07-07 14:56:06,977] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.206 seconds
+[2022-07-07 14:56:10,583] {processor.py:153} INFO - Started process (PID=13362) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:10,584] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:10,584] {logging_mixin.py:115} INFO - [2022-07-07 14:56:10,584] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:10,594] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:10,651] {logging_mixin.py:115} INFO - [2022-07-07 14:56:10,651] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:10,681] {logging_mixin.py:115} INFO - [2022-07-07 14:56:10,680] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:10.680099+00:00, run_after=2022-07-07T07:56:10.680099+00:00
+[2022-07-07 14:56:10,706] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.130 seconds
+[2022-07-07 14:56:13,863] {processor.py:153} INFO - Started process (PID=13578) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:13,863] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:13,864] {logging_mixin.py:115} INFO - [2022-07-07 14:56:13,864] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:13,880] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:13,931] {logging_mixin.py:115} INFO - [2022-07-07 14:56:13,931] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:14,004] {logging_mixin.py:115} INFO - [2022-07-07 14:56:14,004] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:14.004093+00:00, run_after=2022-07-07T07:56:14.004093+00:00
+[2022-07-07 14:56:14,076] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.221 seconds
+[2022-07-07 14:56:17,891] {processor.py:153} INFO - Started process (PID=13797) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:17,892] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:17,892] {logging_mixin.py:115} INFO - [2022-07-07 14:56:17,892] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:17,900] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:17,942] {logging_mixin.py:115} INFO - [2022-07-07 14:56:17,942] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:17,976] {logging_mixin.py:115} INFO - [2022-07-07 14:56:17,975] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:17.975653+00:00, run_after=2022-07-07T07:56:17.975653+00:00
+[2022-07-07 14:56:18,023] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.136 seconds
+[2022-07-07 14:56:21,219] {processor.py:153} INFO - Started process (PID=14016) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:21,219] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:21,220] {logging_mixin.py:115} INFO - [2022-07-07 14:56:21,220] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:21,230] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:21,284] {logging_mixin.py:115} INFO - [2022-07-07 14:56:21,284] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:21,314] {logging_mixin.py:115} INFO - [2022-07-07 14:56:21,314] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:21.313984+00:00, run_after=2022-07-07T07:56:21.313984+00:00
+[2022-07-07 14:56:21,333] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.119 seconds
+[2022-07-07 14:56:24,263] {processor.py:153} INFO - Started process (PID=14233) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:24,264] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:24,264] {logging_mixin.py:115} INFO - [2022-07-07 14:56:24,264] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:24,274] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:24,320] {logging_mixin.py:115} INFO - [2022-07-07 14:56:24,320] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:24,346] {logging_mixin.py:115} INFO - [2022-07-07 14:56:24,346] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:24.345766+00:00, run_after=2022-07-07T07:56:24.345766+00:00
+[2022-07-07 14:56:24,363] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.104 seconds
+[2022-07-07 14:56:27,345] {processor.py:153} INFO - Started process (PID=14449) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:27,346] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:27,349] {logging_mixin.py:115} INFO - [2022-07-07 14:56:27,348] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:27,373] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:27,466] {logging_mixin.py:115} INFO - [2022-07-07 14:56:27,466] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:27,506] {logging_mixin.py:115} INFO - [2022-07-07 14:56:27,506] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:27.506084+00:00, run_after=2022-07-07T07:56:27.506084+00:00
+[2022-07-07 14:56:27,541] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.205 seconds
+[2022-07-07 14:56:30,525] {processor.py:153} INFO - Started process (PID=14672) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:30,526] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:30,526] {logging_mixin.py:115} INFO - [2022-07-07 14:56:30,526] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:30,544] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:30,605] {logging_mixin.py:115} INFO - [2022-07-07 14:56:30,605] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:30,641] {logging_mixin.py:115} INFO - [2022-07-07 14:56:30,641] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:30.641353+00:00, run_after=2022-07-07T07:56:30.641353+00:00
+[2022-07-07 14:56:30,666] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.153 seconds
+[2022-07-07 14:56:33,884] {processor.py:153} INFO - Started process (PID=14896) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:33,885] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:33,886] {logging_mixin.py:115} INFO - [2022-07-07 14:56:33,885] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:33,900] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:33,944] {logging_mixin.py:115} INFO - [2022-07-07 14:56:33,944] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:33,966] {logging_mixin.py:115} INFO - [2022-07-07 14:56:33,966] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:33.966088+00:00, run_after=2022-07-07T07:56:33.966088+00:00
+[2022-07-07 14:56:33,982] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.104 seconds
+[2022-07-07 14:56:36,782] {processor.py:153} INFO - Started process (PID=15109) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:36,782] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:36,783] {logging_mixin.py:115} INFO - [2022-07-07 14:56:36,782] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:36,790] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:36,832] {logging_mixin.py:115} INFO - [2022-07-07 14:56:36,832] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:36,870] {logging_mixin.py:115} INFO - [2022-07-07 14:56:36,870] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:36.867203+00:00, run_after=2022-07-07T07:56:36.867203+00:00
+[2022-07-07 14:56:36,901] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.124 seconds
+[2022-07-07 14:56:40,197] {processor.py:153} INFO - Started process (PID=15326) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:40,198] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:40,198] {logging_mixin.py:115} INFO - [2022-07-07 14:56:40,198] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:40,206] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:40,256] {logging_mixin.py:115} INFO - [2022-07-07 14:56:40,256] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:40,286] {logging_mixin.py:115} INFO - [2022-07-07 14:56:40,286] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:40.286006+00:00, run_after=2022-07-07T07:56:40.286006+00:00
+[2022-07-07 14:56:40,309] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.116 seconds
+[2022-07-07 14:56:43,235] {processor.py:153} INFO - Started process (PID=15540) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:43,236] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:43,237] {logging_mixin.py:115} INFO - [2022-07-07 14:56:43,236] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:43,246] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:43,292] {logging_mixin.py:115} INFO - [2022-07-07 14:56:43,292] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:43,327] {logging_mixin.py:115} INFO - [2022-07-07 14:56:43,326] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:43.326488+00:00, run_after=2022-07-07T07:56:43.326488+00:00
+[2022-07-07 14:56:43,370] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.141 seconds
+[2022-07-07 14:56:46,172] {processor.py:153} INFO - Started process (PID=15759) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:46,173] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:46,174] {logging_mixin.py:115} INFO - [2022-07-07 14:56:46,174] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:46,186] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:46,237] {logging_mixin.py:115} INFO - [2022-07-07 14:56:46,236] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:46,271] {logging_mixin.py:115} INFO - [2022-07-07 14:56:46,271] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:46.271199+00:00, run_after=2022-07-07T07:56:46.271199+00:00
+[2022-07-07 14:56:46,301] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.134 seconds
+[2022-07-07 14:56:49,184] {processor.py:153} INFO - Started process (PID=15975) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:49,185] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:49,185] {logging_mixin.py:115} INFO - [2022-07-07 14:56:49,185] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:49,194] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:49,238] {logging_mixin.py:115} INFO - [2022-07-07 14:56:49,238] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:49,270] {logging_mixin.py:115} INFO - [2022-07-07 14:56:49,270] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:49.270148+00:00, run_after=2022-07-07T07:56:49.270148+00:00
+[2022-07-07 14:56:49,303] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.122 seconds
+[2022-07-07 14:56:52,393] {processor.py:153} INFO - Started process (PID=16191) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:52,394] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:52,394] {logging_mixin.py:115} INFO - [2022-07-07 14:56:52,394] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:52,403] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:52,450] {logging_mixin.py:115} INFO - [2022-07-07 14:56:52,450] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:52,484] {logging_mixin.py:115} INFO - [2022-07-07 14:56:52,484] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:52.484026+00:00, run_after=2022-07-07T07:56:52.484026+00:00
+[2022-07-07 14:56:52,501] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.112 seconds
+[2022-07-07 14:56:55,383] {processor.py:153} INFO - Started process (PID=16406) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:55,384] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:55,384] {logging_mixin.py:115} INFO - [2022-07-07 14:56:55,384] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:55,401] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:55,459] {logging_mixin.py:115} INFO - [2022-07-07 14:56:55,459] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:55,494] {logging_mixin.py:115} INFO - [2022-07-07 14:56:55,494] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:55.493865+00:00, run_after=2022-07-07T07:56:55.493865+00:00
+[2022-07-07 14:56:55,518] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.141 seconds
+[2022-07-07 14:56:58,481] {processor.py:153} INFO - Started process (PID=16623) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:58,482] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:56:58,483] {logging_mixin.py:115} INFO - [2022-07-07 14:56:58,482] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:58,491] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:56:58,565] {logging_mixin.py:115} INFO - [2022-07-07 14:56:58,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:56:58,602] {logging_mixin.py:115} INFO - [2022-07-07 14:56:58,602] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:56:58.601790+00:00, run_after=2022-07-07T07:56:58.601790+00:00
+[2022-07-07 14:56:58,624] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.149 seconds
+[2022-07-07 14:57:02,778] {processor.py:153} INFO - Started process (PID=16839) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:02,779] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:02,779] {logging_mixin.py:115} INFO - [2022-07-07 14:57:02,779] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:02,787] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:02,858] {logging_mixin.py:115} INFO - [2022-07-07 14:57:02,858] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:02,899] {logging_mixin.py:115} INFO - [2022-07-07 14:57:02,898] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:02.897307+00:00, run_after=2022-07-07T07:57:02.897307+00:00
+[2022-07-07 14:57:02,935] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.162 seconds
+[2022-07-07 14:57:05,904] {processor.py:153} INFO - Started process (PID=17062) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:05,904] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:05,905] {logging_mixin.py:115} INFO - [2022-07-07 14:57:05,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:05,913] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:05,960] {logging_mixin.py:115} INFO - [2022-07-07 14:57:05,960] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:05,986] {logging_mixin.py:115} INFO - [2022-07-07 14:57:05,986] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:05.986245+00:00, run_after=2022-07-07T07:57:05.986245+00:00
+[2022-07-07 14:57:06,015] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.115 seconds
+[2022-07-07 14:57:09,097] {processor.py:153} INFO - Started process (PID=17284) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:09,097] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:09,098] {logging_mixin.py:115} INFO - [2022-07-07 14:57:09,098] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:09,109] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:09,171] {logging_mixin.py:115} INFO - [2022-07-07 14:57:09,171] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:09,216] {logging_mixin.py:115} INFO - [2022-07-07 14:57:09,215] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:09.215269+00:00, run_after=2022-07-07T07:57:09.215269+00:00
+[2022-07-07 14:57:09,245] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.152 seconds
+[2022-07-07 14:57:12,180] {processor.py:153} INFO - Started process (PID=17500) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:12,181] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:12,182] {logging_mixin.py:115} INFO - [2022-07-07 14:57:12,181] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:12,197] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:12,254] {logging_mixin.py:115} INFO - [2022-07-07 14:57:12,254] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:12,283] {logging_mixin.py:115} INFO - [2022-07-07 14:57:12,283] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:12.282788+00:00, run_after=2022-07-07T07:57:12.282788+00:00
+[2022-07-07 14:57:12,301] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.129 seconds
+[2022-07-07 14:57:15,360] {processor.py:153} INFO - Started process (PID=17717) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:15,361] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:15,362] {logging_mixin.py:115} INFO - [2022-07-07 14:57:15,362] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:15,375] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:15,441] {logging_mixin.py:115} INFO - [2022-07-07 14:57:15,441] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:15,474] {logging_mixin.py:115} INFO - [2022-07-07 14:57:15,474] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:15.474012+00:00, run_after=2022-07-07T07:57:15.474012+00:00
+[2022-07-07 14:57:15,504] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.149 seconds
+[2022-07-07 14:57:18,441] {processor.py:153} INFO - Started process (PID=17933) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:18,441] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:18,442] {logging_mixin.py:115} INFO - [2022-07-07 14:57:18,442] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:18,450] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:18,493] {logging_mixin.py:115} INFO - [2022-07-07 14:57:18,493] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:18,522] {logging_mixin.py:115} INFO - [2022-07-07 14:57:18,521] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:18.521224+00:00, run_after=2022-07-07T07:57:18.521224+00:00
+[2022-07-07 14:57:18,553] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.117 seconds
+[2022-07-07 14:57:21,347] {processor.py:153} INFO - Started process (PID=18149) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:21,347] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:21,349] {logging_mixin.py:115} INFO - [2022-07-07 14:57:21,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:21,362] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:21,427] {logging_mixin.py:115} INFO - [2022-07-07 14:57:21,426] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:21,457] {logging_mixin.py:115} INFO - [2022-07-07 14:57:21,457] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:21.456985+00:00, run_after=2022-07-07T07:57:21.456985+00:00
+[2022-07-07 14:57:21,496] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.154 seconds
+[2022-07-07 14:57:24,515] {processor.py:153} INFO - Started process (PID=18365) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:24,529] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:24,530] {logging_mixin.py:115} INFO - [2022-07-07 14:57:24,529] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:24,545] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:24,607] {logging_mixin.py:115} INFO - [2022-07-07 14:57:24,607] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:24,652] {logging_mixin.py:115} INFO - [2022-07-07 14:57:24,651] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:24.651618+00:00, run_after=2022-07-07T07:57:24.651618+00:00
+[2022-07-07 14:57:24,671] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.172 seconds
+[2022-07-07 14:57:27,634] {processor.py:153} INFO - Started process (PID=18581) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:27,634] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:27,635] {logging_mixin.py:115} INFO - [2022-07-07 14:57:27,635] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:27,647] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:27,707] {logging_mixin.py:115} INFO - [2022-07-07 14:57:27,707] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:27,740] {logging_mixin.py:115} INFO - [2022-07-07 14:57:27,737] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:27.736971+00:00, run_after=2022-07-07T07:57:27.736971+00:00
+[2022-07-07 14:57:27,764] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.133 seconds
+[2022-07-07 14:57:30,695] {processor.py:153} INFO - Started process (PID=18798) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:30,696] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:30,697] {logging_mixin.py:115} INFO - [2022-07-07 14:57:30,697] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:30,728] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:30,815] {logging_mixin.py:115} INFO - [2022-07-07 14:57:30,815] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:30,856] {logging_mixin.py:115} INFO - [2022-07-07 14:57:30,855] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:30.854986+00:00, run_after=2022-07-07T07:57:30.854986+00:00
+[2022-07-07 14:57:30,876] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.196 seconds
+[2022-07-07 14:57:33,776] {processor.py:153} INFO - Started process (PID=19014) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:33,777] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:33,780] {logging_mixin.py:115} INFO - [2022-07-07 14:57:33,780] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:33,794] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:33,835] {logging_mixin.py:115} INFO - [2022-07-07 14:57:33,835] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:33,899] {logging_mixin.py:115} INFO - [2022-07-07 14:57:33,899] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:33.898643+00:00, run_after=2022-07-07T07:57:33.898643+00:00
+[2022-07-07 14:57:33,933] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.160 seconds
+[2022-07-07 14:57:36,885] {processor.py:153} INFO - Started process (PID=19229) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:36,886] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:36,887] {logging_mixin.py:115} INFO - [2022-07-07 14:57:36,886] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:36,896] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:36,941] {logging_mixin.py:115} INFO - [2022-07-07 14:57:36,941] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:36,971] {logging_mixin.py:115} INFO - [2022-07-07 14:57:36,971] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:36.971167+00:00, run_after=2022-07-07T07:57:36.971167+00:00
+[2022-07-07 14:57:37,004] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.123 seconds
+[2022-07-07 14:57:40,404] {processor.py:153} INFO - Started process (PID=19451) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:40,405] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:40,406] {logging_mixin.py:115} INFO - [2022-07-07 14:57:40,406] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:40,417] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:40,477] {logging_mixin.py:115} INFO - [2022-07-07 14:57:40,476] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:40,509] {logging_mixin.py:115} INFO - [2022-07-07 14:57:40,509] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:40.508843+00:00, run_after=2022-07-07T07:57:40.508843+00:00
+[2022-07-07 14:57:40,543] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.143 seconds
+[2022-07-07 14:57:43,291] {processor.py:153} INFO - Started process (PID=19668) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:43,291] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:43,292] {logging_mixin.py:115} INFO - [2022-07-07 14:57:43,292] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:43,304] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:43,368] {logging_mixin.py:115} INFO - [2022-07-07 14:57:43,368] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:43,421] {logging_mixin.py:115} INFO - [2022-07-07 14:57:43,420] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:43.417425+00:00, run_after=2022-07-07T07:57:43.417425+00:00
+[2022-07-07 14:57:43,453] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.168 seconds
+[2022-07-07 14:57:46,079] {processor.py:153} INFO - Started process (PID=19885) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:46,079] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:46,080] {logging_mixin.py:115} INFO - [2022-07-07 14:57:46,080] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:46,093] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:46,143] {logging_mixin.py:115} INFO - [2022-07-07 14:57:46,143] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:46,174] {logging_mixin.py:115} INFO - [2022-07-07 14:57:46,173] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:46.173551+00:00, run_after=2022-07-07T07:57:46.173551+00:00
+[2022-07-07 14:57:46,192] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.118 seconds
+[2022-07-07 14:57:48,823] {processor.py:153} INFO - Started process (PID=20101) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:48,823] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:48,824] {logging_mixin.py:115} INFO - [2022-07-07 14:57:48,824] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:48,832] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:48,881] {logging_mixin.py:115} INFO - [2022-07-07 14:57:48,881] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:48,908] {logging_mixin.py:115} INFO - [2022-07-07 14:57:48,907] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:48.907487+00:00, run_after=2022-07-07T07:57:48.907487+00:00
+[2022-07-07 14:57:48,925] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.108 seconds
+[2022-07-07 14:57:51,888] {processor.py:153} INFO - Started process (PID=20317) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:51,888] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:51,889] {logging_mixin.py:115} INFO - [2022-07-07 14:57:51,889] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:51,898] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:51,940] {logging_mixin.py:115} INFO - [2022-07-07 14:57:51,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:51,970] {logging_mixin.py:115} INFO - [2022-07-07 14:57:51,970] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:51.967159+00:00, run_after=2022-07-07T07:57:51.967159+00:00
+[2022-07-07 14:57:51,995] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.111 seconds
+[2022-07-07 14:57:55,378] {processor.py:153} INFO - Started process (PID=20533) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:55,379] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:55,379] {logging_mixin.py:115} INFO - [2022-07-07 14:57:55,379] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:55,396] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:55,462] {logging_mixin.py:115} INFO - [2022-07-07 14:57:55,462] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:55,487] {logging_mixin.py:115} INFO - [2022-07-07 14:57:55,486] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:55.486543+00:00, run_after=2022-07-07T07:57:55.486543+00:00
+[2022-07-07 14:57:55,522] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.149 seconds
+[2022-07-07 14:57:58,169] {processor.py:153} INFO - Started process (PID=20748) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:58,170] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:57:58,170] {logging_mixin.py:115} INFO - [2022-07-07 14:57:58,170] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:58,181] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:57:58,223] {logging_mixin.py:115} INFO - [2022-07-07 14:57:58,223] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:57:58,254] {logging_mixin.py:115} INFO - [2022-07-07 14:57:58,254] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:57:58.253573+00:00, run_after=2022-07-07T07:57:58.253573+00:00
+[2022-07-07 14:57:58,274] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.111 seconds
+[2022-07-07 14:58:01,177] {processor.py:153} INFO - Started process (PID=20966) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:01,178] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:01,178] {logging_mixin.py:115} INFO - [2022-07-07 14:58:01,178] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:01,185] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:01,291] {logging_mixin.py:115} INFO - [2022-07-07 14:58:01,291] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:01,413] {logging_mixin.py:115} INFO - [2022-07-07 14:58:01,413] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:01.412993+00:00, run_after=2022-07-07T07:58:01.412993+00:00
+[2022-07-07 14:58:01,565] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.391 seconds
+[2022-07-07 14:58:05,718] {processor.py:153} INFO - Started process (PID=21182) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:05,719] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:05,720] {logging_mixin.py:115} INFO - [2022-07-07 14:58:05,719] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:05,739] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:05,850] {logging_mixin.py:115} INFO - [2022-07-07 14:58:05,850] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:05,921] {logging_mixin.py:115} INFO - [2022-07-07 14:58:05,920] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:05.920343+00:00, run_after=2022-07-07T07:58:05.920343+00:00
+[2022-07-07 14:58:05,980] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.266 seconds
+[2022-07-07 14:58:09,285] {processor.py:153} INFO - Started process (PID=21398) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:09,286] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:09,287] {logging_mixin.py:115} INFO - [2022-07-07 14:58:09,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:09,296] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:09,346] {logging_mixin.py:115} INFO - [2022-07-07 14:58:09,346] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:09,381] {logging_mixin.py:115} INFO - [2022-07-07 14:58:09,381] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:09.380609+00:00, run_after=2022-07-07T07:58:09.380609+00:00
+[2022-07-07 14:58:09,402] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.125 seconds
+[2022-07-07 14:58:12,460] {processor.py:153} INFO - Started process (PID=21614) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:12,461] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:12,462] {logging_mixin.py:115} INFO - [2022-07-07 14:58:12,462] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:12,472] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:12,522] {logging_mixin.py:115} INFO - [2022-07-07 14:58:12,522] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:12,547] {logging_mixin.py:115} INFO - [2022-07-07 14:58:12,547] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:12.547302+00:00, run_after=2022-07-07T07:58:12.547302+00:00
+[2022-07-07 14:58:12,588] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.133 seconds
+[2022-07-07 14:58:16,403] {processor.py:153} INFO - Started process (PID=21837) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:16,403] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:16,404] {logging_mixin.py:115} INFO - [2022-07-07 14:58:16,404] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:16,422] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:16,492] {logging_mixin.py:115} INFO - [2022-07-07 14:58:16,491] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:16,531] {logging_mixin.py:115} INFO - [2022-07-07 14:58:16,531] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:16.530858+00:00, run_after=2022-07-07T07:58:16.530858+00:00
+[2022-07-07 14:58:16,588] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.197 seconds
+[2022-07-07 14:58:20,103] {processor.py:153} INFO - Started process (PID=22059) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:20,103] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:20,104] {logging_mixin.py:115} INFO - [2022-07-07 14:58:20,104] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:20,116] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:20,179] {logging_mixin.py:115} INFO - [2022-07-07 14:58:20,179] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:20,224] {logging_mixin.py:115} INFO - [2022-07-07 14:58:20,224] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:20.223599+00:00, run_after=2022-07-07T07:58:20.223599+00:00
+[2022-07-07 14:58:20,246] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.150 seconds
+[2022-07-07 14:58:23,880] {processor.py:153} INFO - Started process (PID=22275) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:23,881] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:23,882] {logging_mixin.py:115} INFO - [2022-07-07 14:58:23,882] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:23,895] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:23,953] {logging_mixin.py:115} INFO - [2022-07-07 14:58:23,953] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:23,992] {logging_mixin.py:115} INFO - [2022-07-07 14:58:23,992] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:23.992103+00:00, run_after=2022-07-07T07:58:23.992103+00:00
+[2022-07-07 14:58:24,037] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.164 seconds
+[2022-07-07 14:58:27,371] {processor.py:153} INFO - Started process (PID=22491) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:27,372] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:27,373] {logging_mixin.py:115} INFO - [2022-07-07 14:58:27,373] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:27,385] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:27,444] {logging_mixin.py:115} INFO - [2022-07-07 14:58:27,444] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:27,479] {logging_mixin.py:115} INFO - [2022-07-07 14:58:27,478] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:27.478368+00:00, run_after=2022-07-07T07:58:27.478368+00:00
+[2022-07-07 14:58:27,497] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.133 seconds
+[2022-07-07 14:58:30,911] {processor.py:153} INFO - Started process (PID=22708) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:30,912] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:30,913] {logging_mixin.py:115} INFO - [2022-07-07 14:58:30,912] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:30,933] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:30,984] {logging_mixin.py:115} INFO - [2022-07-07 14:58:30,984] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:31,017] {logging_mixin.py:115} INFO - [2022-07-07 14:58:31,017] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:31.017227+00:00, run_after=2022-07-07T07:58:31.017227+00:00
+[2022-07-07 14:58:31,062] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.168 seconds
+[2022-07-07 14:58:34,413] {processor.py:153} INFO - Started process (PID=22923) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:34,414] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:34,415] {logging_mixin.py:115} INFO - [2022-07-07 14:58:34,415] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:34,427] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:34,472] {logging_mixin.py:115} INFO - [2022-07-07 14:58:34,472] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:34,515] {logging_mixin.py:115} INFO - [2022-07-07 14:58:34,515] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:34.514777+00:00, run_after=2022-07-07T07:58:34.514777+00:00
+[2022-07-07 14:58:34,553] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.142 seconds
+[2022-07-07 14:58:37,986] {processor.py:153} INFO - Started process (PID=23140) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:37,987] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:37,990] {logging_mixin.py:115} INFO - [2022-07-07 14:58:37,987] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:38,000] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:38,061] {logging_mixin.py:115} INFO - [2022-07-07 14:58:38,060] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:38,112] {logging_mixin.py:115} INFO - [2022-07-07 14:58:38,112] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:38.112274+00:00, run_after=2022-07-07T07:58:38.112274+00:00
+[2022-07-07 14:58:38,147] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.165 seconds
+[2022-07-07 14:58:41,719] {processor.py:153} INFO - Started process (PID=23355) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:41,719] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:41,720] {logging_mixin.py:115} INFO - [2022-07-07 14:58:41,720] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:41,729] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:41,790] {logging_mixin.py:115} INFO - [2022-07-07 14:58:41,790] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:41,817] {logging_mixin.py:115} INFO - [2022-07-07 14:58:41,817] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:41.816849+00:00, run_after=2022-07-07T07:58:41.816849+00:00
+[2022-07-07 14:58:41,847] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.132 seconds
+[2022-07-07 14:58:44,779] {processor.py:153} INFO - Started process (PID=23572) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:44,780] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:44,780] {logging_mixin.py:115} INFO - [2022-07-07 14:58:44,780] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:44,794] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:44,843] {logging_mixin.py:115} INFO - [2022-07-07 14:58:44,843] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:44,885] {logging_mixin.py:115} INFO - [2022-07-07 14:58:44,885] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:44.884755+00:00, run_after=2022-07-07T07:58:44.884755+00:00
+[2022-07-07 14:58:44,910] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.136 seconds
+[2022-07-07 14:58:47,848] {processor.py:153} INFO - Started process (PID=23789) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:47,848] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:47,849] {logging_mixin.py:115} INFO - [2022-07-07 14:58:47,849] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:47,861] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:47,926] {logging_mixin.py:115} INFO - [2022-07-07 14:58:47,926] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:47,972] {logging_mixin.py:115} INFO - [2022-07-07 14:58:47,972] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:47.972138+00:00, run_after=2022-07-07T07:58:47.972138+00:00
+[2022-07-07 14:58:48,014] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.171 seconds
+[2022-07-07 14:58:51,586] {processor.py:153} INFO - Started process (PID=24017) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:51,587] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:51,588] {logging_mixin.py:115} INFO - [2022-07-07 14:58:51,588] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:51,600] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:51,646] {logging_mixin.py:115} INFO - [2022-07-07 14:58:51,646] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:51,680] {logging_mixin.py:115} INFO - [2022-07-07 14:58:51,680] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:51.680109+00:00, run_after=2022-07-07T07:58:51.680109+00:00
+[2022-07-07 14:58:51,696] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.113 seconds
+[2022-07-07 14:58:55,117] {processor.py:153} INFO - Started process (PID=24238) to work on /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:55,118] {processor.py:641} INFO - Processing file /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-07-07 14:58:55,119] {logging_mixin.py:115} INFO - [2022-07-07 14:58:55,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:55,128] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-07-07 14:58:55,180] {logging_mixin.py:115} INFO - [2022-07-07 14:58:55,180] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-07-07 14:58:55,214] {logging_mixin.py:115} INFO - [2022-07-07 14:58:55,214] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2022-07-06T07:58:55.213854+00:00, run_after=2022-07-07T07:58:55.213854+00:00
+[2022-07-07 14:58:55,237] {processor.py:161} INFO - Processing /home/luan/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.125 seconds

@@ -1,0 +1,1 @@
+wget https://covid.ourworldindata.org/data/owid-covid-data.csv -O /home/luan/projects/covid_dashboard/pipelines/global/init/dataset/owid-covid-data.csv
