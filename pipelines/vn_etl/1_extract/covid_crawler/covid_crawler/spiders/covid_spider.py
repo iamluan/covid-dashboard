@@ -9,6 +9,11 @@ class CovidSpider(scrapy.Spider):
 
     name = "covid"
     collection_name = 'scrapped'
+    custom_settings = {
+        'ITEM_PIPELINES': {
+            'covid_crawler.pipelines.MongoPipeline': 300
+        }
+    }
 
     lua_script = ""
     with open(LUA_PATH, 'r') as file:

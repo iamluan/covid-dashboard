@@ -26,13 +26,19 @@ class MongoPipeline:
         )
 
     def open_spider(self, spider):
+        if spider.name == 'total':
+            return
         self.client = pymongo.MongoClient(self.mongo_uri)
         self.db = self.client[self.mongo_db]
         self.db[spider.collection_name].drop()
 
     def close_spider(self, spider):
+        if spider.name == 'total':
+            return
         self.client.close()
 
     def process_item(self, item, spider):
+        if spider.name == 'total':
+            return
         self.db[spider.collection_name].insert_one(ItemAdapter(item).asdict())
         return item

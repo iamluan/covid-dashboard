@@ -80,9 +80,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'covid_crawler.pipelines.MongoPipeline': 300,
-}
+# ITEM_PIPELINES = {
+#    'covid_crawler.pipelines.MongoPipeline': 300,
+# }
 MONGO_URI = 'mongodb+srv://luan:M7m0FZV5cfC6j5sm@cluster0.avzsj.mongodb.net/?retryWrites=true&w=majority'
 MONGO_DATABASE = 'Covid'
 

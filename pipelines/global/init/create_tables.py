@@ -49,13 +49,6 @@ def create_tables():
                     month SMALLINT,
                     day SMALLINT
                 );
-                CREATE TABLE VNProvinceCurrentTotalCases (
-                    province_code varchar(10) PRIMARY KEY,
-                    province varchar(50),
-                    yesterday_cases int,
-                    total_cases int,
-                    total_deaths int
-                );
                 CREATE TABLE covid (
                     iso_code_3 varchar(10),
                     date_key int,
