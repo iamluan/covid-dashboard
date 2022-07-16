@@ -25,7 +25,7 @@ with DAG(
     default_args={
         "retries": 10,
         "retry_delay": timedelta(minutes=60),
-        "email": ["luanntfx10665@funix.edu.vn"]
+        "email": ["non.static.structure@gmail.com"]
     },
     
 ) as etl:
