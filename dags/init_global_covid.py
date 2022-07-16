@@ -9,7 +9,7 @@ with DAG(
     'init_global_covid', 
     default_args=default_args,
     catchup=False,
-    
+    schedule_interval=None,
 ) as etl:
     download_dataset = BashOperator(
         task_id='download_dataset',

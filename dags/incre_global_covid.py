@@ -1,18 +1,31 @@
 from airflow.operators.bash import BashOperator
-from airflow.providers.http.sensors.http import HttpSensor 
+from airflow.operators.dummy import DummyOperator
+from airflow.operators.python import PythonOperator, BranchPythonOperator
 from airflow import DAG
-from datetime import datetime
+from datetime import datetime, timedelta
+import requests
 
+def _is_api_available():
+    if requests.get('https://disease.sh/v3/covid-19/countries?yesterday=yesterday').ok:
+        return
+    else:
+        raise ValueError("API is not available")
+
+default_args={
+        "retries": 10,
+        "retry_delay": timedelta(minutes=60),
+        "email": ["luanntfx10665@funix.edu.vn"]
+}
 with DAG(
     'incre_global_covid',
     start_date=datetime(2022, 7, 6),
     schedule_interval='@daily',
-    catchup=False
+    catchup=False,
+    default_args=default_args
 ) as pipeline:
-    is_api_available = HttpSensor(
+    is_api_available = PythonOperator(
         task_id = 'is_api_available',
-        http_conn_id='global_covid_api',
-        endpoint='covid-19/countries?yesterday=yesterday'
+        python_callable=_is_api_available
     )
     update_date_table = BashOperator(
         task_id='update_date_table',

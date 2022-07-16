@@ -1,17 +1,15 @@
-from datetime import datetime
-import urllib.request
+from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.bash import BashOperator
-from airflow.operators.python import BranchPythonOperator
-from airflow.operators.dummy import DummyOperator
+from airflow.operators.python import PythonOperator
+import requests
 
-def check_splash_port():
+def _check_splash_port():
     try:
-        if urllib.request.urlopen("http://localhost:8050/").getcode() == 200:
-            return ['crawl']
-        return ['terminate']
+        if requests.get("http://localhost:8050/").ok:
+            return 
     except:
-        return ['terminate']
+        raise ValueError('Splash is not running.')
 
 extract_script = \
     '/home/luan/projects/covid_dashboard/pipelines/vn_etl/bash_scripts/last30days_etl/1_extract.sh'
@@ -24,11 +22,16 @@ with DAG(
     start_date=datetime(2022, 7, 7),
     schedule_interval='@daily',
     catchup=False,
+    default_args={
+        "retries": 10,
+        "retry_delay": timedelta(minutes=60),
+        "email": ["luanntfx10665@funix.edu.vn"]
+    },
     
 ) as etl:
-    is_splash_running = BranchPythonOperator(
+    is_splash_running = PythonOperator(
         task_id='is_splash_running',
-        python_callable=check_splash_port
+        python_callable=_check_splash_port
     )
     crawl = BashOperator(
         task_id='crawl',
@@ -42,9 +45,4 @@ with DAG(
         env={'HOME': '/home/luan/'},
         trigger_rule='all_success'
     )
-    terminate = DummyOperator(
-        task_id='terminate',
-    )
-    is_splash_running >> crawl >> transform_and_load >> terminate
-    is_splash_running >> terminate
-
+    is_splash_running >> crawl >> transform_and_load
